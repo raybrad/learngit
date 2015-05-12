@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 creating again.
 creating a new branch is quick and simple.
 no off method
+Git can merge branches.
