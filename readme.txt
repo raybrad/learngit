@@ -7,3 +7,4 @@ creating again.
 creating a new branch is quick and simple.
 no off method
 Git can merge branches.
+Git is a free software.
